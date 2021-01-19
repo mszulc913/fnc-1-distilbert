@@ -1,0 +1,1 @@
+{"seed": 123, "n_epochs": 10, "weight_decay": 0.01, "use_class_weights": true, "learning_rate": 5e-05, "experiment_name": "base"}
