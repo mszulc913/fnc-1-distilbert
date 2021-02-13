@@ -1,5 +1,5 @@
 # FNC-1 DistilBERT
-Solving FNC-1 task using pre-trained DistilBERT.
+Playing with DistilBERT and FNC-1 task.
 
 ## Task
 [Fake News Chellange](http://www.fakenewschallenge.org/) consists in detecting _fake news_. 
